@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lebenslauf - Jakob Alexander Finke</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Lebenslauf</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Über mich</a></li>
+                <li><a href="lebenslauf.html">Lebenslauf</a></li>
+                <li><a href="impressum.html">Impressum</a></li>
+                <li><a href="datenschutz.html">Datenschutz</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="cv">
+            <h2>Berufserfahrung</h2>
+            <p>Details zur Berufserfahrung hier einfügen.</p>
+
+            <h2>Bildung</h2>
+            <p>Details zur Bildung hier einfügen.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Jakob Alexander Finke</p>
+    </footer>
+</body>
+</html>
